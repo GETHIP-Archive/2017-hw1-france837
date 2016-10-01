@@ -1,11 +1,23 @@
 body {
   padding: 5%;
-  background-color: #f3f3f3;
+  background-color: #E0FFFF;
+}
+
+h1 {
+  color: #34282C;
+}
+
+h2, h3 {
+  color: #4C4646;
+}
+
+p, th, td {
+  color: #625D5D;
 }
 
 .gradeBox {
   width: 100%;
   height: 2em;
-  background-color: white;
+  background-color: #E0FFFF;
   margin: 1em 0;
 }
